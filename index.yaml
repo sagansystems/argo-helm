@@ -2,13 +2,13 @@ apiVersion: v1
 entries:
   argo:
   - apiVersion: v1
-    created: 2018-03-24T04:23:39.317883397Z
+    created: 2018-05-31T16:26:30.011549541-07:00
     description: A Helm chart for Kubernetes
-    digest: a0255641d6ae6bc533f5594003bf39f911ec35fc1198e6627ca84c93f3fd941f
+    digest: 879fb419e91a85fbf76c46470f63f080312463e1defc43ea38a3597e46c8f6ee
     name: argo
     urls:
-    - argo-0.1.1.tgz
-    version: 0.1.1
+    - argo-0.2.0.tgz
+    version: 0.2.0
   argo-ci:
   - apiVersion: v1
     created: 2018-03-24T04:23:39.321149975Z
@@ -18,4 +18,4 @@ entries:
     urls:
     - argo-ci-0.1.2.tgz
     version: 0.1.2
-generated: 2018-03-24T04:23:39.315192339Z
+generated: 2018-05-31T16:26:30.007571229-07:00
