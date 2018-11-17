@@ -20,3 +20,4 @@ spec:
     app: {{ .Release.Name }}-{{ .Values.ui.name }}
   sessionAffinity: None
   type: {{ .Values.ui.serviceType }}
+{{ end }}
